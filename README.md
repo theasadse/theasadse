@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Asad ullah</h1>
-<h3 align="center">A passionate Web De veloper from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadd2723&label=Profile%20views&color=0e75b6&style=flat" alt="asadd2723" /> </p>
 
