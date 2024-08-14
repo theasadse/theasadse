@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadd2723&label=Profile%20views&color=0e75b6&style=flat" alt="asadd2723" /> </p>
 
+## 👨‍💻 About Me
+
+I'm a passionate Web Developer with a strong focus on building user-friendly, responsive, and dynamic web applications. With expertise in modern JavaScript frameworks and libraries, I aim to deliver high-quality, maintainable code that enhances user experience and solves real-world problems.
+
 - 🌱 I’m currently learning **Full stack development, Advanced React, TypeScript, and AWS**
 
 - 💬 Ask me about **React, Javascript, Front-end, Dynamic web app**
