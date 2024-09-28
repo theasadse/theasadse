@@ -6,7 +6,7 @@ I'm a passionate Web Developer with a strong focus on building user-friendly, re
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadd2723&label=Profile%20views&color=0e75b6&style=flat" alt="asadd2723" /> </p>
 
-- 🌱 I’m currently learning **Full stack development, Advanced React, TypeScript, and AWS**
+- 🌱 I’m currently working as a **React Developer at Repla Technologies**, while continuing to enhance my skills in **Full Stack Development, Advanced React, TypeScript, and AWS**.
 
 - 💬 Ask me about **React, Javascript, Front-end, Dynamic web app**
 
