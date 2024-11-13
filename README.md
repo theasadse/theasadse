@@ -6,15 +6,15 @@ I'm a dedicated Web Developer with a passion for crafting user-friendly, respons
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadd2723&label=Profile%20views&color=0e75b6&style=flat" alt="asadd2723" /> </p>
 
-- 💼 React Developer at Repla Technologies.
+- 💼 **React Developer** at Repla Technologies.
   
-- 🌱 I’m currently working as a **React Developer at Repla Technologies**, while continuing to enhance my skills in **Full Stack Development, Advanced React, TypeScript, and AWS**.
+- 🌱 Currently expanding my expertise in **Full Stack Development, Advanced React, TypeScript, Vercel, Ant Design, and GraphQL.**
 
-- 💬 Ask me about **React, Javascript, Front-end, Dynamic web app**
+- 💬 **Ask me about:** React, JavaScript, Front-end Development, Ant Design, GraphQL, and building dynamic web applications.
 
 - 📫 How to reach me **asadu3040@gmail.com**
 
-- ⚡ Fun fact **I love exploring new web technologies and staying up-to-date with the latest trends in web development.**
+- ⚡ **Fun fact:** I love exploring new web technologies and keeping up with the latest trends in web development to continuously improve my craft.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
