@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Asad ullah</h1>
+<h1 align="center">Hi there, I'm Asad Ullah! 👋</h1>
 
 ## 👨‍💻 About Me
 
-I'm a passionate Web Developer with a strong focus on building user-friendly, responsive, and dynamic web applications. With expertise in modern JavaScript frameworks and libraries, I aim to deliver high-quality, maintainable code that enhances user experience and solves real-world problems.
+I'm a dedicated Web Developer with a passion for crafting user-friendly, responsive, and dynamic web applications. Specializing in React and modern JavaScript frameworks, I focus on delivering high-quality code that enhances user experience and addresses real-world needs. My approach is rooted in creating scalable and maintainable solutions that meet today’s development standards.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadd2723&label=Profile%20views&color=0e75b6&style=flat" alt="asadd2723" /> </p>
 
