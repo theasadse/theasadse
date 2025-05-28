@@ -10,7 +10,7 @@ I'm a dedicated Web Developer with a passion for crafting user-friendly, respons
 
 - 🌱 Currently expanding my expertise in **Backend Development, DevOps Engineering, System Design, Database Management, Cloud Deployment, and API Development.**  
 
-- 💬 **Ask me about:** Full Stack Development, Backend Development, DevOps, System Design, React, TypeScript, GraphQL, and building scalable web applications.  
+- 💬 **Ask me about:** Full Stack Development, Backend Development, DevOps, System Design, React, TypeScript, GraphQL, Apollo and building scalable web applications.  
 
 - 📫 How to reach me **asadu3040@gmail.com**  
 
