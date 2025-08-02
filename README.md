@@ -12,14 +12,14 @@ I'm a dedicated Web Developer with a passion for crafting user-friendly, respons
 
 - 💬 **Ask me about:** Full Stack Development, Backend Development, DevOps, System Design, React, TypeScript, GraphQL, Apollo and building scalable web applications.  
 
-- 📫 How to reach me **asadu3040@gmail.com**  
+- 📫 How to reach me **theasadse@gmail.com**  
 
 - ⚡ **Fun fact:** I love exploring new web technologies and keeping up with the latest trends in web development to continuously improve my craft.  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/asadd2723" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asadd2723" height="30" width="40" /></a>
-<a href="https://instagram.com/asadd2723" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asadd2723" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/theassdse" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asadd2723" height="30" width="40" /></a>
+<a href="https://instagram.com/theasadse" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asadd2723" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
