@@ -18,7 +18,7 @@ I'm a dedicated Web Developer with a passion for crafting user-friendly, respons
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/theassdse" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asadd2723" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/theasadse" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asadd2723" height="30" width="40" /></a>
 <a href="https://instagram.com/theasadse" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asadd2723" height="30" width="40" /></a>
 </p>
 
